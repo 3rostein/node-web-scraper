@@ -1,0 +1,23 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "NodeJS Web Scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoldenSteinhauser/node-web-scraper.git"
+  },
+  "keywords": [],
+  "author": "Holden Steinhauser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoldenSteinhauser/node-web-scraper/issues"
+  },
+  "homepage": "https://github.com/HoldenSteinhauser/node-web-scraper#readme",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
